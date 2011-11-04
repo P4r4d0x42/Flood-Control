@@ -1,0 +1,16 @@
+﻿Designing a Puzzle Game
+
+The Puzzler has always been a popular game genre. From old standbys like Tetris to modern crazes like Bejeweled, puzzle games are attractive to players because they do not require a long-term time investment or a steep learning curve.
+
+The game mechanic is the heart of any good puzzle game. This mechanic is usually very simple, with perhaps a few twists to keep the players on their toes.
+
+In Flood Control, the player will be faced with a board containing 80 pieces of pipe. Some will be straight pipes and some will be curved. The objective of the game is to rotate the pipes to form a continuous line to pump water from the left side of the board to the right side of the board.
+
+Completing a section of pipe drains water out of the base and scores points for the player, but destroys the pipes used. New pipes will fall into place for the player to begin another row.
+
+
+
+
+More to follow:
+
+
