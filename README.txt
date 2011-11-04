@@ -1,0 +1,1 @@
+It was just another day at the bottom of the ocean until an explosion in one of the storage bays cracked the protective dome around Deep Sea Research Lab Alpha. Now the entire place is flooding, and the emergency pump system is a chaotic jumble of loose parts.
